@@ -52,8 +52,3 @@ The value returned will be either `null` for no results, or an associative array
     'sectiontwo' => 'sectiontwo'
 ]
 ```
-
-
-## Contributing
-
-SilverStripe 4
