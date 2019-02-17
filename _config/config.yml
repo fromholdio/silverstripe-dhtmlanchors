@@ -1,0 +1,10 @@
+---
+Name: fromholdio-dbhtmlanchors
+---
+SilverStripe\ORM\FieldType\DBHTMLText:
+  extensions:
+    - Fromholdio\DBHTMLAnchors\Extensions\DBHTMLAnchorsExtension
+
+SilverStripe\ORM\FieldType\DBHTMLVarchar:
+  extensions:
+    - Fromholdio\DBHTMLAnchors\Extensions\DBHTMLAnchorsExtension
