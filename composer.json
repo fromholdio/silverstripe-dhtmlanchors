@@ -4,16 +4,16 @@
 	"description": "Quick and easy method of identifying anchors in DBHTMLText and DBHTMLVarchar fields",
 	"license": "BSD-3-Clause",
 	"keywords": ["silverstripe", "html5", "dbfield", "dbhtmltext"],
-	"homepage": "https://github.com/fromholdio/silverstripe-dbhtmlanchors",
+	"homepage": "https://github.com/fromholdio/silverstripe-dhtmlanchors",
 	"support": {
-		"issues": "https://github.com/fromholdio/silverstripe-dbhtmlanchors/issues"
+		"issues": "https://github.com/fromholdio/silverstripe-dhtmlanchors/issues"
 	},
 	"authors": [{
 		"name": "Luke Fromhold",
 		"homepage": "https://fromhold.io"
 	}],
 	"require": {
-        "silverstripe/framework": "^5.0"
+        "silverstripe/framework": "^5.0 || ^6.0"
 	},
 	"autoload": {
 		"psr-4": {
